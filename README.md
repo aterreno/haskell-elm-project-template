@@ -2,6 +2,8 @@
 
 ## Getting started
 
+### First time setup
+
     # Install stack
     brew update
     brew install haskell-stack
@@ -12,6 +14,8 @@
 
     # Install dependencies (might take a while, uses up to 1 GB of hard disk space)
     stack setup
+
+### Building and running
 
     # Run tests
     stack test
