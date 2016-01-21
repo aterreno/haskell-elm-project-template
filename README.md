@@ -8,6 +8,9 @@
     brew update
     brew install haskell-stack
 
+    # Install the Elm tools
+    brew install elm
+
     # Get the code
     git clone git@github.com:leonidas/haskell-elm-project-template
     cd haskell-elm-project-template
