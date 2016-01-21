@@ -20,6 +20,9 @@
     # Run tests
     stack test
 
+    # Run a Haskell REPL
+    stack ghci
+
     # Build and start a development server
     stack build
     stack exec server
